@@ -9,6 +9,3 @@ i am ingesting more data.
 
 
 I am fixing this bug
-
-
-i am ingesting batch data
